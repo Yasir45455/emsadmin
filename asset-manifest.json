@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/emsadmin/static/css/main.7f9c4e51.css",
+    "main.js": "/emsadmin/static/js/main.cadc90a9.js",
+    "static/js/977.3556fa05.chunk.js": "/emsadmin/static/js/977.3556fa05.chunk.js",
+    "static/js/455.6016e62a.chunk.js": "/emsadmin/static/js/455.6016e62a.chunk.js",
+    "static/js/453.ac866f70.chunk.js": "/emsadmin/static/js/453.ac866f70.chunk.js",
+    "index.html": "/emsadmin/index.html",
+    "main.7f9c4e51.css.map": "/emsadmin/static/css/main.7f9c4e51.css.map",
+    "main.cadc90a9.js.map": "/emsadmin/static/js/main.cadc90a9.js.map",
+    "977.3556fa05.chunk.js.map": "/emsadmin/static/js/977.3556fa05.chunk.js.map",
+    "455.6016e62a.chunk.js.map": "/emsadmin/static/js/455.6016e62a.chunk.js.map",
+    "453.ac866f70.chunk.js.map": "/emsadmin/static/js/453.ac866f70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f9c4e51.css",
+    "static/js/main.cadc90a9.js"
+  ]
+}
